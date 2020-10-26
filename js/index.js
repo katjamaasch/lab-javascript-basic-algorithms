@@ -1,6 +1,6 @@
 // Iteration 1: Names and Input
 
-// 1.1 Create a variable `hacker1` with the driver's name.
+// 1.1 Create a variable `hacker1` with the driver's name. "Test message!"
 // 1.2 Print `"The driver's name is XXXX"`.
 
 
