@@ -78,7 +78,7 @@ const paragraph =
 
 const wordCount = paragraph.split(' ');
 console.log(wordCount);
-console.log(wordCount.length);
+console.log(`The text consists of ${wordCount.length} words.`);
 
 /*Make your program count the number of times the Latin word et appears.*/
 
@@ -92,7 +92,7 @@ for (let i = 0; i < wordCount.length; i++) {
   let test6 = wordCount[i].includes('Et.');
   wordEt = wordEt + test + test2 + test3 + test4 + test5 + test6;
 }
-console.log(wordEt);
+console.log("The word 'et' is included " + wordEt + ' times in the text.');
 
 /*
 Short Cut: 
