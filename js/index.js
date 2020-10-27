@@ -10,7 +10,7 @@ console.log(`The driver\'s name is ${hacker1}.`);
 //1.4 Print `"The navigator's name is YYYY"`.
 
 const hacker2 = 'Bert';
-console.log(`The navigator\'s name is ${hacker1}.`);
+console.log(`The navigator\'s name is ${hacker2}.`);
 
 // Iteration 2: Conditionals
 /* 2.1. Depending on which name is longer, print:
